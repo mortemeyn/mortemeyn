@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehmet Eyüp</h1>
-<h3 align="center">A passionate game developer from India</h3>
+<h3 align="center">A passionate game developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mortemeyn&label=Profile%20views&color=b40e0e&style=plastic" alt="mortemeyn" /> </p>
 

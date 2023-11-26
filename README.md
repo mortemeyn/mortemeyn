@@ -1,3 +1,3 @@
-<h1 align="center">Hi 👋, I'm Mehmet Eyüp</h1>
+<h1 align="center">Hi 👋, I'm Mehmet Eyup</h1>
 
   
